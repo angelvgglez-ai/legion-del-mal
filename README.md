@@ -50,7 +50,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
 - **Green Goblin** — Tecnología avanzada y tácticas de terror
-- **Harley Queen** — Complice, cruel y carismatica de su amado — *Joker* 
+- **Harley Queen** — psicologa letal, Complice, cruel y carismatica de su amado — *Joker* 
 
 ## Reglas de la Legión
 
