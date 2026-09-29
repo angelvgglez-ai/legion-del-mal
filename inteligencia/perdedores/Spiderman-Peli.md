@@ -2,13 +2,15 @@
 
 ## Peliculas protagonisadas 
 
-1. 
+1. Spiderman Lejos de casa
 
-2. 
+2. Spideman vs Dr. Octopus
 
-3. 
+3. Spiderman Marvel
 
-4. 
+4. Spiderman 1
+
+5. Spiderman 2
 
 **Peliculas mas relevantes de su carrera**
 
