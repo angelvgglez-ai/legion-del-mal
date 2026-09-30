@@ -1,6 +1,6 @@
 ---
-name: Template para Bugs de software
-about: Ayudanos a mejorar
+name: Template para Bugs de mantenimento
+about: Ayudanos a mejorar, seguir mejorando
 title: 'Bug: '
 labels: bug, enhancement, Mejora de software
 assignees: angelvgglez-ai
