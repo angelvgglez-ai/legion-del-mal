@@ -17,6 +17,17 @@ on:
         required: true
         default: 'La mision fue un exito'
 
+
+      cow_caracter:
+        description: 'Nivel de personaje'
+        required: true
+        type: choice
+        options:
+          - eyes
+          - ghostbusters
+          - fox
+          - king
+
       prioridad:
         description: 'Nivel de prioridad'
         required: true
