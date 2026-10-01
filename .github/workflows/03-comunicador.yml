@@ -14,6 +14,21 @@ on:
           - Brainiac
           - Darkseid
           - Joker
+      mensaje:
+        description: 'Mensaje para el consejo'
+        required: true
+        default: 'La mision fue un exito'
+
+
+    prioridad:
+      villano:
+        description: 'Nivel de prioridad'
+        required: true
+        type: choice
+        options:
+          - Normal
+          - Alta
+          - Critica
 
 
 jobs:
