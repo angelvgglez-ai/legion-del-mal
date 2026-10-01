@@ -1,8 +1,6 @@
 name: Acceso a la Fortaleza Prohibida
 
-#on: push
-on:
-  workflow_dispatch:
+on: push
 
 jobs:
     acceso-a-la-base:
