@@ -21,7 +21,6 @@ on:
 
 
     prioridad:
-      villano:
         description: 'Nivel de prioridad'
         required: true
         type: choice
