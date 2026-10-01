@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Comunicador de la Legion
 
 on:
@@ -19,8 +17,8 @@ on:
         required: true
         default: 'La mision fue un exito'
 
-    prioridad:
-        description: "Nivel de prioridad"
+      prioridad:
+        description: 'Nivel de prioridad'
         required: true
         type: choice
         options:
