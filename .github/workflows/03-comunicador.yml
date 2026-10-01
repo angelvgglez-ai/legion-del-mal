@@ -19,9 +19,8 @@ on:
         required: true
         default: 'La mision fue un exito'
 
-
     prioridad:
-        description: 'Nivel de prioridad'
+        description: "Nivel de prioridad"
         required: true
         type: choice
         options:
