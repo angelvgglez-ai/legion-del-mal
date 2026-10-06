@@ -12,3 +12,6 @@ El conflicto inicia cuando el sistema sufre fallos simultaneos y letales en dist
 
 - **¿Que es la geotormenta?** Es un evento teorico dende los fallos meteorologicos encadenados de los satelites se vuelven masivos, crando una tormenta destructiva de proporciones globales capaz de extinguir la vida humana.
 
+- **El villano y su motivacion:** El fallo no es un error de de software, sino un sabotaje intencionado a traves ded un virus informatico e ideado bajo el nombre clave de **"Proyecto Zeus"**. El cerebro detras del plan es el Secretario de Estado de EE:UU., Leonard Dekkom (Ed Harris). Su objetivo es usar el clima como un arma de destruccion masiva para borrar del mapa a los enemigos geopoliticos de Estados Unidos y asegurar la dominacion global del pais.
+
+- **Resolucion:** Los hermanos Lawson (Jake en el espacio y Max en la tierra) logran secuestrar al Presidente para obtener sus datos biometricos  (los unicos codigos capaces de reiniciar el sistema), eliminan el virus informatico y salvan el planeta segundos antes de que ocurra la Geotormenta masiva.
