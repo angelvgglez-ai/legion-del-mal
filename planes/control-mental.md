@@ -61,3 +61,13 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 3. Respiracion profunda🍼
 
 4. Detencion del pensamineto🏖️️
+
+
+
+## Mantenimiento Control salud...
+
+1. Hacer diacnosticos de los voluntarios
+
+2. Radigrafia, checar el cerebro minuciosamente 
+
+3. 
