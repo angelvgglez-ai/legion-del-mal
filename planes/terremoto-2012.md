@@ -16,3 +16,9 @@ La pelicula muestra una cadena de mega-desastres de magnitudes fisicamente impos
 
 4. **Mega-Tsunamis globales:** El desplazamiento continental genera olas gigantescas que cubren el planeta entero, arrastrando barcos militares (como un portaaviones contra la Casa Blanca) e inundando la cordillera del Himalaya.
 
+
+## Ciencia vs Ficcion
+
+- **El error de los Neutrinos:** La pelicula plantea que los neutrinos mutaron y calentaron el nucleo de la Tierra. En la ficica real, los neutrinos son particulas fantasma que casi no interactuan con la materia fisica; atraviesan la Tierra por completo cada segundo sin calentar ni un solo grado.
+
+- **El calendario Maya:** Cientificos e Historiadores explicaron repetidamente que el calendario maya no predecia el fin del mundo el 21 de diciembre de 2012, si no simplemente el **fin de un ciclo de cuenta larga** (el decimotercer *Bak'tun*), tras el cual el calendario simplemente volvio a empezar de cero, como un año nuevo moderno.
