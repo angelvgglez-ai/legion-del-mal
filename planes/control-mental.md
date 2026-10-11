@@ -71,3 +71,9 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 2. Radigrafia, checar el cerebro minuciosamente 
 
 3. 
+
+## Plan de escape
+
+- En caso de que el proceso de congelacion falle o se presenten emergencias, ten un plan de escape claro.
+
+- Asegirate de que todos los mienbros del equipo esten familiarizados con el plan de escape y sepan como actuar en caso de una situacion critica.
