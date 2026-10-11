@@ -7,3 +7,5 @@ Todos se preguntan si Spiderman tiene debilidad mas los del ejercito, por si un 
 
 
 ## Intrucciones de prevencion (Investigaciones patogenas)
+
+## Estrategia recomendada

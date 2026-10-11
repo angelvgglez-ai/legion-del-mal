@@ -7,3 +7,5 @@ Spiderman es un superheroe ficticio creado por el escitor Stan Lee
 
 - Dr Octopus
 - Green Goblin
+
+## Estrategia recomendada
