@@ -22,3 +22,22 @@ La pelicula muestra una cadena de mega-desastres de magnitudes fisicamente impos
 - **El error de los Neutrinos:** La pelicula plantea que los neutrinos mutaron y calentaron el nucleo de la Tierra. En la ficica real, los neutrinos son particulas fantasma que casi no interactuan con la materia fisica; atraviesan la Tierra por completo cada segundo sin calentar ni un solo grado.
 
 - **El calendario Maya:** Cientificos e Historiadores explicaron repetidamente que el calendario maya no predecia el fin del mundo el 21 de diciembre de 2012, si no simplemente el **fin de un ciclo de cuenta larga** (el decimotercer *Bak'tun*), tras el cual el calendario simplemente volvio a empezar de cero, como un año nuevo moderno.
+
+## Plan de escape
+
+1. Planificación Previa (Antes del Evento)
+
+Diseño del Plan: Establecer procedimientos claros para proteger la vida mediante el desplazamiento a lugares de menor riesgo. 
+Identificación de Rutas: Definir rutas de escape principales y alternativas, señalizadas con colores verde y blanco para su fácil identificación.
+Puntos de Encuentro: Establecer áreas seguras al aire libre lejos de edificios y cables eléctricos. 
+Recursos: Contar con herramientas para cerrar llaves de gas/agua y mantener un botiquín de primeros auxilios.
+2. Ejecución Durante el Sismo
+
+Acción Inmediata: No evacuar durante el temblor. Aplicar la técnica de Agacharse, Cubrirse y Sujetarse bajo mesas o escritorios resistentes. 
+Protección: Alejarse de ventanas, vidrios y objetos que puedan caer. 
+Calma: Mantener la serenidad para evitar el pánico y lesiones por empujones.
+3. Evacuación (Después del Sismo)
+
+Desalojo Ordenado: Utilizar solo las escaleras (nunca ascensores) siguiendo las rutas señalizadas.
+Puntos de Reunión: Dirigirse al área de seguridad establecida y realizar el conteo de personas para verificar que nadie falta.
+Verificación: Revisar instalaciones de gas y electricidad antes de reingresar o reutilizar servicios.
